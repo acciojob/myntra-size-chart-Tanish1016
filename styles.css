@@ -1,2 +1,19 @@
+table{
+	 border-collapse:collapse;
+	 width:560px;
+}
+th{
+	border:1px solid black;
+	text-align:left;
+}
 
-/* Your CSS Code here. */
+td{
+	border:1px solid black;
+	text-align:right;
+}
+
+.t{
+	border:1px solid black;
+	text-align:left;
+}
+ 
